@@ -1,4 +1,5 @@
 //just some details to try out with Github
+// And a final test to see how to re_edit and commit again!
 
     float r;
     float g;
