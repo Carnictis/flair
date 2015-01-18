@@ -1,6 +1,7 @@
 //just some details to try out with Github
 // And a final test to see how to re_edit and commit again!
-//Hopefully
+//Hopefully Its Woking and it is!
+//I love this sketch!
 
     float r;
     float g;
@@ -14,7 +15,8 @@
      size( displayHeight, displayWidth);
      frame.setResizable(true);
      background(255);
-     smooth();
+     smooth();//useful for adjusting screens
+     
     }
     void draw() {
      // Fill all variables with random values
